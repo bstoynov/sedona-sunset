@@ -1,0 +1,21 @@
+{
+  "name": "sedona-sunset",
+  "displayName": "Sedona Sunset",
+  "description": "Best color theme on this side of heaven",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sedona Sunset",
+        "uiTheme": "vs",
+        "path": "./themes/Sedona Sunset-color-theme.json"
+      }
+    ]
+  }
+}
