@@ -82,7 +82,7 @@
     "terminal.ansiCyan": "#4dbf99",
     "terminal.ansiGreen": "#77cc00",
     "terminal.ansiMagenta": "#9966cc",
-    "terminal.ansiRed": "#D32F2F",
+    "terminal.ansiRed": "#C22929",
     "terminal.ansiWhite": "#c7c7c7",
     "terminal.ansiYellow": "#f29718",
     "terminal.background": "#fff",
@@ -92,30 +92,30 @@
     "titleBar.border": "#C1B8A9",
     "titleBar.inactiveBackground": "#F9F3EE",
     "inputOption.activeBackground": "#EDEDED",
-    "debugIcon.continueForeground": "#6f42c1",
-    "debugIcon.disconnectForeground": "#6f42c1",
-    "debugIcon.pauseForeground": "#6f42c1",
-    "debugIcon.restartForeground": "#1976D2",
-    "debugIcon.startForeground": "#1976D2",
-    "debugIcon.stepBackForeground": "#6f42c1",
-    "debugIcon.stepIntoForeground": "#6f42c1",
-    "debugIcon.stepOutForeground": "#6f42c1",
-    "debugIcon.stepOverForeground": "#6f42c1",
-    "debugIcon.stopForeground": "#1976D2",
-    "debugIcon.breakpointCurrentStackframeForeground": "#1976D2",
+    "debugIcon.continueForeground": "#643AB1",
+    "debugIcon.disconnectForeground": "#643AB1",
+    "debugIcon.pauseForeground": "#643AB1",
+    "debugIcon.restartForeground": "#1669BB",
+    "debugIcon.startForeground": "#1669BB",
+    "debugIcon.stepBackForeground": "#643AB1",
+    "debugIcon.stepIntoForeground": "#643AB1",
+    "debugIcon.stepOutForeground": "#643AB1",
+    "debugIcon.stepOverForeground": "#643AB1",
+    "debugIcon.stopForeground": "#1669BB",
+    "debugIcon.breakpointCurrentStackframeForeground": "#1669BB",
     "debugIcon.breakpointDisabledForeground": "#848484",
-    "debugIcon.breakpointForeground": "#D32F2F",
-    "debugIcon.breakpointStackframeForeground": "#1976D2",
+    "debugIcon.breakpointForeground": "#C22929",
+    "debugIcon.breakpointStackframeForeground": "#1669BB",
     "symbolIcon.classForeground": "#dd8500",
     "symbolIcon.enumeratorForeground": "#dd8500",
     "symbolIcon.eventForeground": "#dd8500",
-    "symbolIcon.methodForeground": "#6f42c1",
-    "symbolIcon.constructorForeground": "#6f42c1",
-    "symbolIcon.functionForeground": "#6f42c1",
-    "symbolIcon.fieldForeground": "#1976D2",
-    "symbolIcon.interfaceForeground": "#1976D2",
-    "symbolIcon.variableForeground": "#1976D2",
-    "symbolIcon.enumeratorMemberForeground": "#1976D2",
+    "symbolIcon.methodForeground": "#643AB1",
+    "symbolIcon.constructorForeground": "#643AB1",
+    "symbolIcon.functionForeground": "#643AB1",
+    "symbolIcon.fieldForeground": "#1669BB",
+    "symbolIcon.interfaceForeground": "#1669BB",
+    "symbolIcon.variableForeground": "#1669BB",
+    "symbolIcon.enumeratorMemberForeground": "#1669BB",
     "diffEditor.removedTextBackground": "#e597af52",
     "diffEditor.insertedTextBackground": "#b7e7a44b"
   },
@@ -164,7 +164,7 @@
     //   "scope": "meta.link.inline.markdown",
     //   "settings": {
     //     "fontStyle": "underline",
-    //     "foreground": "#1976D2"
+    //     "foreground": "#1669BB"
     //   }
     // },
     {
@@ -201,7 +201,7 @@
         "support"
       ],
       "settings": {
-        "foreground": "#1976D2"
+        "foreground": "#1669BB"
       }
     },
     {
@@ -218,7 +218,7 @@
         "punctuation.definition.template-expression"
       ],
       "settings": {
-        "foreground": "#D32F2F"
+        "foreground": "#C22929"
       }
     },
     {
@@ -239,7 +239,7 @@
         "constant.keyword.clojure"
       ],
       "settings": {
-        "foreground": "#6f42c1"
+        "foreground": "#643AB1"
       }
     },
     {
@@ -253,7 +253,7 @@
         "keyword.other.template"
       ],
       "settings": {
-        "foreground": "#22863a"
+        "foreground": "#1D7231"
       }
     },
     {
@@ -287,7 +287,7 @@
     //     "markup.bold.markdown"
     //   ],
     //   "settings": {
-    //     "foreground": "#6f42c1"
+    //     "foreground": "#643AB1"
     //   }
     // },
     {
@@ -308,7 +308,7 @@
     //     "punctuation.definition.metadata.markdown"
     //   ],
     //   "settings": {
-    //     "foreground": "#22863a"
+    //     "foreground": "#1D7231"
     //   }
     // },
     // {
@@ -317,7 +317,7 @@
     //     "beginning.punctuation.definition.list.markdown"
     //   ],
     //   "settings": {
-    //     "foreground": "#6f42c1"
+    //     "foreground": "#643AB1"
     //   }
     // },
     // {
@@ -329,31 +329,31 @@
     //     "string.other.link.description.markdown"
     //   ],
     //   "settings": {
-    //     "foreground": "#d32f2f"
+    //     "foreground": "#C22929"
     //   }
     // }
     {
       "scope": "heading.1.markdown",
       "settings": {
-        "foreground": "#1976D2",
+        "foreground": "#1669BB",
       }
     },
     {
       "scope": "heading.2.markdown",
       "settings": {
-        "foreground": "#22863A",
+        "foreground": "#1D7231",
       }
     },
     {
       "scope": "heading.3.markdown",
       "settings": {
-        "foreground": "#d32f2f",
+        "foreground": "#C22929",
       }
     },
     {
       "scope": "heading.4.markdown",
       "settings": {
-        "foreground": "#6f42c1",
+        "foreground": "#643AB1",
       }
     },
   ]
